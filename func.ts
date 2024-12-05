@@ -1,3 +1,3 @@
 export function myFunc() {
-  return 'Whaat?';
+  return 'What?';
 }
